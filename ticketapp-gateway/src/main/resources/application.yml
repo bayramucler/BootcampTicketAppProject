@@ -1,0 +1,12 @@
+server:
+  port: 9091
+spring:
+  application:
+    name: ticketapp-gateway
+  cloud:
+    gateway:
+      routes:
+        - id: ticketapp-service
+          uri: lb://ticketapp-service
+          predicates:
+            - Path=/users/**,/order/**,/trip/**,/ticket/**
