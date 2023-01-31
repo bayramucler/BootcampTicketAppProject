@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/BootcampTicketAppProject.iml" filepath="$PROJECT_DIR$/.idea/BootcampTicketAppProject.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ticketapp-eurake-server/emlakcepte-eureka-server.iml" filepath="$PROJECT_DIR$/ticketapp-eurake-server/emlakcepte-eureka-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ticketapp-gateway/emlakcepte-gateway.iml" filepath="$PROJECT_DIR$/ticketapp-gateway/emlakcepte-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ticketapp-eurake-server/ticketapp-eureka-server.iml" filepath="$PROJECT_DIR$/ticketapp-eurake-server/ticketapp-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ticketapp-gateway/ticketapp-gateway.iml" filepath="$PROJECT_DIR$/ticketapp-gateway/ticketapp-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/ticketapp-notification-service/ticketapp-notification-service.iml" filepath="$PROJECT_DIR$/ticketapp-notification-service/ticketapp-notification-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/ticketapp-payment-service/ticketapp-payment-service.iml" filepath="$PROJECT_DIR$/ticketapp-payment-service/ticketapp-payment-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/ticketapp-service/ticketapp-service.iml" filepath="$PROJECT_DIR$/ticketapp-service/ticketapp-service.iml" />
