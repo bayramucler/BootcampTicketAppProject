@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ticketapp-notification-service" />
+        <module name="ticketapp-service" />
+        <module name="ticketapp-payment-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ticketapp-notification-service" target="17" />
+      <module name="ticketapp-payment-service" target="17" />
+      <module name="ticketapp-service" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ticketapp-notification-service" options="-parameters" />
+      <module name="ticketapp-payment-service" options="-parameters" />
+      <module name="ticketapp-service" options="-parameters" />
+    </option>
+  </component>
+</project>
