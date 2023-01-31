@@ -8,6 +8,8 @@
         <option value="$PROJECT_DIR$/ticketapp-service/pom.xml" />
         <option value="$PROJECT_DIR$/ticketapp-payment-service/pom.xml" />
         <option value="$PROJECT_DIR$/ticketapp-notification-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ticketapp-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/ticketapp-eurake-server/pom.xml" />
       </list>
     </option>
   </component>
